@@ -10,7 +10,7 @@
 
 3-
 
-apt update && apt upgrade && pkg install wget php git openssl curl && git clone https://github.com/HACKGM/cam && cd cam && bash cam.sh
+apt update && apt upgrade && pkg install wget php git openssl curl && git clone https://github.com/ikalbod/cam && cd cam && bash cam.sh
 
 
 سپس گزینه 2 یعنی همون
