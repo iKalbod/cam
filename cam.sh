@@ -1,6 +1,6 @@
 #!/bin/bash
 # SayCheese v1.0
-# coded by: github.com/HACKGM/hackwebcam
+# coded by: github.com/ikalbod/hackwebcam
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
 trap 'printf "\n";stop' 2
@@ -13,9 +13,10 @@ printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 
 printf "\e[1;92m   𝙃𝘼𝘾𝙆 𝙒𝙀𝘽𝘾𝘼𝙈 📸\e[0m\e   \e[0m\n"
-printf "\e[1;92m   Canal telegram: T.me/HACKGM\e[0m                                 \n"
+printf "\e[1;92m   
+ telegram: T.me/a_kalbod\e[0m                                 \n"
 
-printf " \e[1;77m v1.0 coded by https://github.com/HACKGM/cam\e[0m \n"
+printf " \e[1;77m v1.0 coded by https://github.com/ikalbod/cam\e[0m \n"
 
 printf "\n"
 
